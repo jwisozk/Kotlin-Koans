@@ -1,0 +1,2 @@
+/Users/iplastun/AndroidStudioProjects/Kotlin Koans/Collections/Compound tasks/src/Shop.kt
+/Users/iplastun/AndroidStudioProjects/Kotlin Koans/Collections/Compound tasks/src/Task.kt
